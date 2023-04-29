@@ -932,4 +932,4 @@ return class ValidateRule{
     
             return false;
     }
-}
+};

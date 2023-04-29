@@ -18,4 +18,4 @@ return class validatorResponse{
     get(){
         return this.__validates;
     }
-}
+};

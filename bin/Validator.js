@@ -229,4 +229,4 @@ return class Validator{
         return this;
     }
 
-}
+};
